@@ -1,2 +1,3 @@
 # Employee-Management-and-Attendance-Tracker
 A PostgreSQL project for managing employees, departments, roles, and attendance. Includes dummy data, queries for reports, triggers for automation, and functions to calculate total work hours with reports..
+The Employee Management and Attendance Tracker is a database-driven system designed to manage employee information, organizational structure, and daily attendance records efficiently. Built using PostgreSQL and managed through pgAdmin, this project focuses on storing, analyzing, and reporting employee-related data for streamlined workforce management.
