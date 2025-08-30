@@ -5,8 +5,7 @@ The Employee Management and Attendance Tracker is a database system designed to 
 Build a SQL-based system to manage employee records and attendance efficiently.
 
 # Tools:
-PostgreSQL (Database)
-pgAdmin (Database Client & Management Tool)
+PostgreSQL (Database) , pgAdmin (Database Client & Management Tool)
 
 # Mini Guide:
 Design schema: Employees, Departments, Roles, Attendance.
