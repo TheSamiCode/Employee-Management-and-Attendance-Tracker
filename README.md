@@ -18,7 +18,7 @@ Add triggers: For automatic timestamp updates and attendance status.
 Create functions: Calculate total working hours per day/employee.
 Generate reports: Use GROUP BY and HAVING for attendance and work-hour analysis.
 
-#Deliverables:
+# Deliverables:
 SQL schema (tables, relationships, constraints)
 Dummy data insertion scripts
 Queries for attendance and late arrivals
